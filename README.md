@@ -1,10 +1,9 @@
-# retina.js [![Build Status](https://secure.travis-ci.org/imulus/retinajs.png?branch=master)](http://travis-ci.org/imulus/retinajs)
 
-### JavaScript, LESS and SASS helpers for rendering high-resolution image variants
+
+### JavaScript, LESS helper for rendering high-resolution image variants
 
 retina.js makes it easy to serve high-resolution images to devices with retina displays
 
-[![Build Status](https://secure.travis-ci.org/imulus/retinajs.png?branch=master)](http://travis-ci.org/imulus/retinajs)
 
 ## How it works
 
